@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/le-ni/OneDrive/Bureau/exjava/ATLIR5-J_AAMNV_Skyjo-secondsess/ATLIR5-J_AAMNV_SKYJO_SERVER/src/be/he2b/atlr5/skyjo/business/PauseBusiness.java</file>
+            <file>file:/C:/Users/le-ni/OneDrive/Bureau/exjava/ATLIR5-J_AAMNV_Skyjo-secondsess/ATLIR5-J_AAMNV_SKYJO_SERVER/src/be/he2b/atlr5/skyjo/launcher/LauncherSrv.java</file>
+            <file>file:/C:/Users/le-ni/OneDrive/Bureau/exjava/ATLIR5-J_AAMNV_Skyjo-secondsess/ATLIR5-J_AAMNV_SKYJO_SERVER/src/be/he2b/atlr5/skyjo/business/UserBusinessLogic.java</file>
+            <file>file:/C:/Users/le-ni/OneDrive/Bureau/exjava/ATLIR5-J_AAMNV_Skyjo-secondsess/ATLIR5-J_AAMNV_SKYJO_SERVER/src/be/he2b/atlr5/skyjo/dbspecification/UserSpecification.java</file>
+            <file>file:/C:/Users/le-ni/OneDrive/Bureau/exjava/ATLIR5-J_AAMNV_Skyjo-secondsess/ATLIR5-J_AAMNV_SKYJO_SERVER/src/be/he2b/atlr5/skyjo/server/secondaryServers/PlayerThread.java</file>
+            <file>file:/C:/Users/le-ni/OneDrive/Bureau/exjava/ATLIR5-J_AAMNV_Skyjo-secondsess/ATLIR5-J_AAMNV_SKYJO_SERVER/src/be/he2b/atlr5/skyjo/db/DBManager.java</file>
+            <file>file:/C:/Users/le-ni/OneDrive/Bureau/exjava/ATLIR5-J_AAMNV_Skyjo-secondsess/ATLIR5-J_AAMNV_SKYJO_SERVER/src/be/he2b/atlr5/skyjo/dbspecification/PauseSpecification.java</file>
+            <file>file:/C:/Users/le-ni/OneDrive/Bureau/exjava/ATLIR5-J_AAMNV_Skyjo-secondsess/ATLIR5-J_AAMNV_SKYJO_SERVER/src/be/he2b/atlr5/skyjo/business/AdminModel.java</file>
+            <file>file:/C:/Users/le-ni/OneDrive/Bureau/exjava/ATLIR5-J_AAMNV_Skyjo-secondsess/ATLIR5-J_AAMNV_SKYJO_SERVER/src/be/he2b/atlr5/skyjo/server/secondaryServers/SecondaryServer.java</file>
+            <file>file:/C:/Users/le-ni/OneDrive/Bureau/exjava/ATLIR5-J_AAMNV_Skyjo-secondsess/ATLIR5-J_AAMNV_SKYJO_SERVER/src/be/he2b/atlr5/skyjo/server/motherServer/PrimaryServer.java</file>
+            <file>file:/C:/Users/le-ni/OneDrive/Bureau/exjava/ATLIR5-J_AAMNV_Skyjo-secondsess/ATLIR5-J_AAMNV_SKYJO_SERVER/src/be/he2b/atlr5/skyjo/dbdto/PauseDto.java</file>
+            <file>file:/C:/Users/le-ni/OneDrive/Bureau/exjava/ATLIR5-J_AAMNV_Skyjo-secondsess/ATLIR5-J_AAMNV_SKYJO_SERVER/src/be/he2b/atlr5/skyjo/business/AdminFacade.java</file>
+            <file>file:/C:/Users/le-ni/OneDrive/Bureau/exjava/ATLIR5-J_AAMNV_Skyjo-secondsess/ATLIR5-J_AAMNV_SKYJO_SERVER/src/be/he2b/atlr5/skyjo/dbdto/Dto.java</file>
+            <file>file:/C:/Users/le-ni/OneDrive/Bureau/exjava/ATLIR5-J_AAMNV_Skyjo-secondsess/ATLIR5-J_AAMNV_SKYJO_SERVER/src/be/he2b/atlr5/skyjo/db/PauseDb.java</file>
+        </group>
+    </open-files>
+</project-private>
